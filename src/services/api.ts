@@ -1,4 +1,4 @@
-export const DEFAULT_API_KEY = '946f86bc-d49b-4bae-aea6-6ab9a6f20a66';
+export const DEFAULT_API_KEY = 'c741c4c4-6fc2-4352-96e2-ccd3a8698bfe';
 
 export interface Team {
   id: number;

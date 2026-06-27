@@ -1,5 +1,5 @@
 // fetch_stats.mjs
-const API_KEY = "946f86bc-d49b-4bae-aea6-6ab9a6f20a66";
+const API_KEY = "c741c4c4-6fc2-4352-96e2-ccd3a8698bfe";
 const BASE_URL = "https://api.balldontlie.io/nba/v1";
 
 async function fetchJSON(url) {
