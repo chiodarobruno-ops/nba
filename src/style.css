@@ -1,0 +1,16 @@
+/* src/style.css */
+/* Custom styles to complement Tailwind */
+body {
+  font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Fade-in animation for player info */
+#playerInfo {
+  animation: fadeIn 0.5s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
